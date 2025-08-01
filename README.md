@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Nishan a dev</p>
+<p align="center">Nishan a React/MERN dev</p>
 
 ###
 
